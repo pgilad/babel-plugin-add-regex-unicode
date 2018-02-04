@@ -1,6 +1,8 @@
 # babel-plugin-add-regex-unicode
 > Babel plugin to add regex Unicode flag
 
+[![Build Status](https://travis-ci.org/pgilad/babel-plugin-add-regex-unicode.svg?branch=master)](https://travis-ci.org/pgilad/babel-plugin-add-regex-unicode)
+
 This babel plugin will add `/u` flag to all your literal unicode regexp so
 that you don't need to remember to do it.
 
