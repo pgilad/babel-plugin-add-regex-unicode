@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-add-regex-unicode",
+  "version": "1.0.0",
+  "description": "Babel plugin to add regex Unicode flag",
+  "keywords": "babel, plugin, unicode, regex, productivity",
+  "repository": "pgilad/babel-plugin-add-regex-unicode",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/helper-regex": "^7.0.0-beta.39"
+  },
+  "devDependencies": {
+    "assert-transform": "^1.0.0",
+    "mocha": "^5.0.0"
+  }
+}
