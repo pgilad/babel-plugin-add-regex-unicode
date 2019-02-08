@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-add-regex-unicode",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Babel plugin to add regex Unicode flag",
   "keywords": "babel, plugin, unicode, regex, productivity",
   "repository": "pgilad/babel-plugin-add-regex-unicode",
