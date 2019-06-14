@@ -39,4 +39,4 @@ var regex = /anything/u;
 
 ## License
 
-MIT
+MIT © [Gilad Peleg](https://www.giladpeleg.com)
