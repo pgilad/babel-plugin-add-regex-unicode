@@ -14,10 +14,10 @@
   "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
   "license": "MIT",
   "dependencies": {
-    "@babel/helper-regex": "^7.0.0-beta.39"
+    "@babel/helper-regex": "^7.4.4"
   },
   "devDependencies": {
     "assert-transform": "^1.0.0",
-    "mocha": "^5.0.0"
+    "mocha": "^6.1.4"
   }
 }
