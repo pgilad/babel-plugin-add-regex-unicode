@@ -5,13 +5,16 @@
   "keywords": "babel, plugin, unicode, regex, productivity",
   "repository": "pgilad/babel-plugin-add-regex-unicode",
   "main": "src/index.js",
+  "engines": {
+    "node": ">=8"
+  },
   "files": [
     "src"
   ],
   "scripts": {
     "test": "mocha"
   },
-  "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
+  "author": "Gilad Peleg <gilad@giladpeleg.com> (https://www.giladpeleg.com)",
   "license": "MIT",
   "dependencies": {
     "@babel/helper-regex": "^7.4.4"
